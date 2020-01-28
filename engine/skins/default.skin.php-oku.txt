@@ -1,0 +1,9 @@
+<div class="sidebar-category sidebar-category-visible">
+						<div class="category-content no-padding">
+							<ul class="navigation navigation-main navigation-accordion">
+								<li class="navigation-header"><span>{$lang['modules_list']}</span> <i class="fa fa-ellipsis-h" title="{$lang['modules_list']}"></i></li>
+								{$sidebar}
+								<li><a href="?mod=bkbot" class="legitRipple"><i class="fa fa-user-circle-o"></i> <span>BKBot</span></a></li>
+							</ul>
+						</div>
+					</div>
